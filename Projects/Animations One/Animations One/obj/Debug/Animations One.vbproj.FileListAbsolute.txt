@@ -1,0 +1,12 @@
+H:\VB\Animations One\Animations One\obj\Debug\ResolveAssemblyReference.cache
+H:\VB\Animations One\Animations One\obj\Debug\WindowsApplication1.frmAnimationProgramsYourName1.resources
+H:\VB\Animations One\Animations One\obj\Debug\WindowsApplication1.frmAnimationProgramsYourName2.resources
+H:\VB\Animations One\Animations One\obj\Debug\WindowsApplication1.Resources.resources
+H:\VB\Animations One\Animations One\obj\Debug\Animations One.vbproj.GenerateResource.Cache
+H:\VB\Animations One\Animations One\obj\Debug\WindowsApplication1.FrmAnimationProgramsYourName3.resources
+H:\VB\Animations One\Animations One\bin\Debug\Animations One.exe
+H:\VB\Animations One\Animations One\bin\Debug\Animations One.pdb
+H:\VB\Animations One\Animations One\bin\Debug\Animations One.xml
+H:\VB\Animations One\Animations One\obj\Debug\Animations One.exe
+H:\VB\Animations One\Animations One\obj\Debug\Animations One.xml
+H:\VB\Animations One\Animations One\obj\Debug\Animations One.pdb

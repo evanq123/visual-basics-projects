@@ -1,0 +1,10 @@
+H:\VB\frmTest1EvanQuach\frmTest1EvanQuach\bin\Debug\frmTest1EvanQuach.exe
+H:\VB\frmTest1EvanQuach\frmTest1EvanQuach\bin\Debug\frmTest1EvanQuach.pdb
+H:\VB\frmTest1EvanQuach\frmTest1EvanQuach\bin\Debug\frmTest1EvanQuach.xml
+H:\VB\frmTest1EvanQuach\frmTest1EvanQuach\obj\Debug\ResolveAssemblyReference.cache
+H:\VB\frmTest1EvanQuach\frmTest1EvanQuach\obj\Debug\WindowsApplication1.frmTest1EvanQuach.resources
+H:\VB\frmTest1EvanQuach\frmTest1EvanQuach\obj\Debug\WindowsApplication1.Resources.resources
+H:\VB\frmTest1EvanQuach\frmTest1EvanQuach\obj\Debug\frmTest1EvanQuach.vbproj.GenerateResource.Cache
+H:\VB\frmTest1EvanQuach\frmTest1EvanQuach\obj\Debug\frmTest1EvanQuach.exe
+H:\VB\frmTest1EvanQuach\frmTest1EvanQuach\obj\Debug\frmTest1EvanQuach.xml
+H:\VB\frmTest1EvanQuach\frmTest1EvanQuach\obj\Debug\frmTest1EvanQuach.pdb

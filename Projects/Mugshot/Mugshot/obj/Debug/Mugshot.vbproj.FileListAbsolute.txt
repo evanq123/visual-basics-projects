@@ -1,0 +1,10 @@
+H:\VB\Mugshot\Mugshot\bin\Debug\Mugshot.exe
+H:\VB\Mugshot\Mugshot\bin\Debug\Mugshot.pdb
+H:\VB\Mugshot\Mugshot\bin\Debug\Mugshot.xml
+H:\VB\Mugshot\Mugshot\obj\Debug\ResolveAssemblyReference.cache
+H:\VB\Mugshot\Mugshot\obj\Debug\Mugshot.Form1.resources
+H:\VB\Mugshot\Mugshot\obj\Debug\Mugshot.Resources.resources
+H:\VB\Mugshot\Mugshot\obj\Debug\Mugshot.vbproj.GenerateResource.Cache
+H:\VB\Mugshot\Mugshot\obj\Debug\Mugshot.exe
+H:\VB\Mugshot\Mugshot\obj\Debug\Mugshot.xml
+H:\VB\Mugshot\Mugshot\obj\Debug\Mugshot.pdb

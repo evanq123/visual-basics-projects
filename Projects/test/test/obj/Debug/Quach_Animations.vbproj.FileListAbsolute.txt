@@ -1,0 +1,4 @@
+H:\VB\test\test\obj\Debug\ResolveAssemblyReference.cache
+H:\VB\test\test\obj\Debug\test.exe
+H:\VB\test\test\obj\Debug\test.xml
+H:\VB\test\test\obj\Debug\test.pdb

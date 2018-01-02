@@ -1,0 +1,10 @@
+H:\VB\quiz\quiz\obj\Debug\ResolveAssemblyReference.cache
+H:\VB\quiz\quiz\obj\Debug\WindowsApplication1.Form1.resources
+H:\VB\quiz\quiz\obj\Debug\WindowsApplication1.Resources.resources
+H:\VB\quiz\quiz\obj\Debug\quiz.vbproj.GenerateResource.Cache
+H:\VB\quiz\quiz\bin\Debug\quiz.exe
+H:\VB\quiz\quiz\bin\Debug\quiz.pdb
+H:\VB\quiz\quiz\bin\Debug\quiz.xml
+H:\VB\quiz\quiz\obj\Debug\quiz.exe
+H:\VB\quiz\quiz\obj\Debug\quiz.xml
+H:\VB\quiz\quiz\obj\Debug\quiz.pdb

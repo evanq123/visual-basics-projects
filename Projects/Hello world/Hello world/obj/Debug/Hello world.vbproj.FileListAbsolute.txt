@@ -1,0 +1,10 @@
+H:\VB\Hello world\Hello world\bin\Debug\Hello world.exe
+H:\VB\Hello world\Hello world\bin\Debug\Hello world.pdb
+H:\VB\Hello world\Hello world\bin\Debug\Hello world.xml
+H:\VB\Hello world\Hello world\obj\Debug\ResolveAssemblyReference.cache
+H:\VB\Hello world\Hello world\obj\Debug\WindowsApplication1.frmHelowWorldEvanQuach.resources
+H:\VB\Hello world\Hello world\obj\Debug\WindowsApplication1.Resources.resources
+H:\VB\Hello world\Hello world\obj\Debug\Hello world.vbproj.GenerateResource.Cache
+H:\VB\Hello world\Hello world\obj\Debug\Hello world.exe
+H:\VB\Hello world\Hello world\obj\Debug\Hello world.xml
+H:\VB\Hello world\Hello world\obj\Debug\Hello world.pdb

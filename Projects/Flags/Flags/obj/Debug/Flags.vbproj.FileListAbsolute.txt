@@ -1,0 +1,10 @@
+H:\VB\Flags\Flags\bin\Debug\Flags.exe
+H:\VB\Flags\Flags\bin\Debug\Flags.pdb
+H:\VB\Flags\Flags\bin\Debug\Flags.xml
+H:\VB\Flags\Flags\obj\Debug\ResolveAssemblyReference.cache
+H:\VB\Flags\Flags\obj\Debug\WindowsApplication1.frmNationalFlagsEvanQuach.resources
+H:\VB\Flags\Flags\obj\Debug\WindowsApplication1.Resources.resources
+H:\VB\Flags\Flags\obj\Debug\Flags.vbproj.GenerateResource.Cache
+H:\VB\Flags\Flags\obj\Debug\Flags.exe
+H:\VB\Flags\Flags\obj\Debug\Flags.xml
+H:\VB\Flags\Flags\obj\Debug\Flags.pdb

@@ -1,0 +1,10 @@
+H:\VB\FavoriteTeam\FavoriteTeam\obj\Debug\ResolveAssemblyReference.cache
+H:\VB\FavoriteTeam\FavoriteTeam\obj\Debug\WindowsApplication1.FrmFavoriteTeam.resources
+H:\VB\FavoriteTeam\FavoriteTeam\obj\Debug\WindowsApplication1.Resources.resources
+H:\VB\FavoriteTeam\FavoriteTeam\obj\Debug\FavoriteTeam.vbproj.GenerateResource.Cache
+H:\VB\FavoriteTeam\FavoriteTeam\bin\Debug\FavoriteTeam.exe
+H:\VB\FavoriteTeam\FavoriteTeam\bin\Debug\FavoriteTeam.pdb
+H:\VB\FavoriteTeam\FavoriteTeam\bin\Debug\FavoriteTeam.xml
+H:\VB\FavoriteTeam\FavoriteTeam\obj\Debug\FavoriteTeam.exe
+H:\VB\FavoriteTeam\FavoriteTeam\obj\Debug\FavoriteTeam.xml
+H:\VB\FavoriteTeam\FavoriteTeam\obj\Debug\FavoriteTeam.pdb
